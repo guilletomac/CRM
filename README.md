@@ -10,6 +10,10 @@ The project is useful for both commercial companies and clients who want to chec
 
 How users can get started with the project ?
 
+www.guillermotomac-cm.herokuapp.com
+
 Customers can create an account and login to check on the status of their orders. They can only check the status but not modify them.
 
 On the other hand, administrators (the company selling the products) can login and assign or edit new order to various calients and update the status.
+
+(admin login -> username: ’admin’ and password: ‘Monday1234’).
